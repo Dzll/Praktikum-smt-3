@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>JossLaundry</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>JossLaundry.JossLaundry</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\JossLaundry</path>
+			</folderitem>
+			<fileitem>
+				<path>src\JossLaundry\JossLaundry.java</path>
+				<folder>src\JossLaundry</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\JossLaundry\laundry.java</path>
+				<folder>src\JossLaundry</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\JossLaundry\login.java</path>
+				<folder>src\JossLaundry</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\JossLaundry\registrasi.java</path>
+				<folder>src\JossLaundry</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

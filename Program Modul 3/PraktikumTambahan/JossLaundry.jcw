@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JossLaundry</label>
+		<id>208</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>JossLaundry.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JossLaundry.jcp</path>
+		</project>
+	</projects>
+</workspace>
